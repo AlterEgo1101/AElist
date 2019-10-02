@@ -2618,7 +2618,7 @@
 	},
 	{
 		"abr": "microscyther",
-		"price": 60,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
@@ -5984,7 +5984,7 @@
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1125,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
