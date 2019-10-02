@@ -1064,7 +1064,7 @@
 	},
 	{
 		"abr": "biofuel",
-		"price": 7,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "VG_Biofuel"
 	},
@@ -1118,7 +1118,7 @@
 	},
 	{
 		"abr": "blankbook",
-		"price": 8,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "AJO_BlankBook"
 	},
@@ -1448,7 +1448,7 @@
 	},
 	{
 		"abr": "taintedskin",
-		"price": 13,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Tainted_Skin"
 	},
@@ -1736,7 +1736,7 @@
 	},
 	{
 		"abr": "flake",
-		"price": 23,
+		"price": 25,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
@@ -1760,13 +1760,13 @@
 	},
 	{
 		"abr": "thrumbofur",
-		"price": 23,
+		"price": 25,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
 	},
 	{
 		"abr": "tofu",
-		"price": 23,
+		"price": 25,
 		"category": "Meat",
 		"defname": "Rawtofu"
 	},
@@ -1958,7 +1958,7 @@
 	},
 	{
 		"abr": "methadone",
-		"price": 27,
+		"price": 30,
 		"category": "Drugs",
 		"defname": "Methadone"
 	},
@@ -1982,13 +1982,13 @@
 	},
 	{
 		"abr": "cannedmeal",
-		"price": 28,
+		"price": 30,
 		"category": "Meals",
 		"defname": "MealCannedFood"
 	},
 	{
 		"abr": "banditscarf",
-		"price": 29,
+		"price": 30,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Bandit"
 	},
@@ -2048,7 +2048,7 @@
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": 30,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
@@ -2090,7 +2090,7 @@
 	},
 	{
 		"abr": "finemeal",
-		"price": 33,
+		"price": 30,
 		"category": "Meals",
 		"defname": "MealFine"
 	},
@@ -2102,25 +2102,25 @@
 	},
 	{
 		"abr": "mechaniteswarm",
-		"price": 33,
+		"price": 30,
 		"category": "Drugs",
 		"defname": "MechSwarm"
 	},
 	{
 		"abr": "mechanites",
-		"price": 33,
+		"price": 30,
 		"category": "Manufactured",
 		"defname": "MFMechanitesBase"
 	},
 	{
 		"abr": "morphine",
-		"price": 33,
+		"price": 35,
 		"category": "Drugs",
 		"defname": "Morphine"
 	},
 	{
 		"abr": "horseshoespin",
-		"price": 34,
+		"price": 35,
 		"category": "Recreation",
 		"defname": "HorseshoesPin"
 	},
@@ -2150,7 +2150,7 @@
 	},
 	{
 		"abr": "fluez",
-		"price": 37,
+		"price": 40,
 		"category": "Drugs",
 		"defname": "VG_FluEz"
 	},
@@ -2162,13 +2162,13 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": 40,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": 40,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -2204,7 +2204,7 @@
 	},
 	{
 		"abr": "bowlofstew",
-		"price": 42,
+		"price": -10,
 		"category": "Lavish Meals",
 		"defname": "bowlstew"
 	},
@@ -2246,7 +2246,7 @@
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": 40,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -2258,7 +2258,7 @@
 	},
 	{
 		"abr": "pizza",
-		"price": 42,
+		"price": 40,
 		"category": "Lavish Meals",
 		"defname": "pizza"
 	},
@@ -2288,7 +2288,7 @@
 	},
 	{
 		"abr": "woodenfoot",
-		"price": 42,
+		"price": 40,
 		"category": "Basic prostheses",
 		"defname": "WoodenFoot"
 	},
@@ -2420,7 +2420,7 @@
 	},
 	{
 		"abr": "component",
-		"price": 53,
+		"price": 50,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -2438,19 +2438,19 @@
 	},
 	{
 		"abr": "pileofbooks",
-		"price": 58,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "AJO_PileOfBooks"
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 60,
 		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 60,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -2462,7 +2462,7 @@
 	},
 	{
 		"abr": "wake-up",
-		"price": 58,
+		"price": 60,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
@@ -2564,7 +2564,7 @@
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": 60,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -2576,7 +2576,7 @@
 	},
 	{
 		"abr": "denture",
-		"price": 67,
+		"price": 70,
 		"category": "Basic prostheses",
 		"defname": "denture"
 	},
@@ -2594,13 +2594,13 @@
 	},
 	{
 		"abr": "heroin",
-		"price": 67,
+		"price": 70,
 		"category": "Drugs",
 		"defname": "Heroin"
 	},
 	{
 		"abr": "lavishmeal",
-		"price": 67,
+		"price": 70,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
@@ -2618,7 +2618,7 @@
 	},
 	{
 		"abr": "microscyther",
-		"price": 67,
+		"price": 60,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
@@ -2648,13 +2648,13 @@
 	},
 	{
 		"abr": "thornweedserum",
-		"price": 67,
+		"price": 70,
 		"category": "Drugs",
 		"defname": "ThornWeedExtract"
 	},
 	{
 		"abr": "hoopstonering",
-		"price": 67,
+		"price": 70,
 		"category": "Recreation",
 		"defname": "HoopstoneRing"
 	},
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"abr": "plantpot",
-		"price": 68,
+		"price": 65,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
@@ -2684,7 +2684,7 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": 74,
+		"price": 75,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
@@ -2726,13 +2726,13 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 80,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
 		"abr": "crimsonbulb",
-		"price": 83,
+		"price": 80,
 		"category": "Plant matter",
 		"defname": "CrimsonBulb"
 	},
@@ -2744,31 +2744,31 @@
 	},
 	{
 		"abr": "earbandage",
-		"price": 83,
+		"price": 80,
 		"category": "Basic prostheses",
 		"defname": "EarBandage"
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": 80,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
 	{
 		"abr": "glowpod",
-		"price": 83,
+		"price": 80,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 85,
 		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 85,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -2798,7 +2798,7 @@
 	},
 	{
 		"abr": "bench",
-		"price": 86,
+		"price": 80,
 		"category": "Furniture",
 		"defname": "Seat_Bench"
 	},
@@ -2828,7 +2828,7 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 88,
+		"price": 90,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
@@ -2852,37 +2852,37 @@
 	},
 	{
 		"abr": "tuque",
-		"price": 91,
+		"price": 90,
 		"category": "Headgear",
 		"defname": "Apparel_Tuque"
 	},
 	{
 		"abr": "empshell",
-		"price": 92,
+		"price": 90,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP"
 	},
 	{
 		"abr": "firefoamshell",
-		"price": 92,
+		"price": 90,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "high-explosiveshell",
-		"price": 92,
+		"price": 90,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
 	},
 	{
 		"abr": "incendiaryshell",
-		"price": 92,
+		"price": 90,
 		"category": "Mortar shells",
 		"defname": "Shell_Incendiary"
 	},
 	{
 		"abr": "napalmshell",
-		"price": 92,
+		"price": 90,
 		"category": "Mortar shells",
 		"defname": "Shell_Napalm"
 	},
@@ -2894,7 +2894,7 @@
 	},
 	{
 		"abr": "cowboyhat",
-		"price": 94,
+		"price": 90,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
 	},
@@ -2912,7 +2912,7 @@
 	},
 	{
 		"abr": "table(1x2)",
-		"price": 98,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "Table1x2c"
 	},
@@ -2954,7 +2954,7 @@
 	},
 	{
 		"abr": "baseballcap",
-		"price": 101,
+		"price": 100,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Bandal"
 	},
@@ -3020,13 +3020,13 @@
 	},
 	{
 		"abr": "shelf",
-		"price": 104,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "Shelf"
 	},
 	{
 		"abr": "endtable",
-		"price": 106,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "EndTable"
 	},
@@ -3050,7 +3050,7 @@
 	},
 	{
 		"abr": "knife",
-		"price": 111,
+		"price": 110,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
 	},
@@ -3092,25 +3092,25 @@
 	},
 	{
 		"abr": "simpleanimalearimplant",
-		"price": 121,
+		"price": 120,
 		"category": "Animal Body Part",
 		"defname": "EarAnimalSimple"
 	},
 	{
 		"abr": "simpleanimaljawimplant",
-		"price": 121,
+		"price": 120,
 		"category": "Animal Body Part",
 		"defname": "JawAnimalSimple"
 	},
 	{
 		"abr": "simpleanimalnose",
-		"price": 121,
+		"price": 120,
 		"category": "Animal Body Part",
 		"defname": "NoseAnimalSimple"
 	},
 	{
 		"abr": "singlerefrigerator",
-		"price": 123,
+		"price": 120,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleRefrigerator"
 	},
@@ -3164,7 +3164,7 @@
 	},
 	{
 		"abr": "elephanttusk",
-		"price": 133,
+		"price": 130,
 		"category": "Items",
 		"defname": "ElephantTusk"
 	},
@@ -3176,7 +3176,7 @@
 	},
 	{
 		"abr": "huntingknife",
-		"price": 133,
+		"price": 130,
 		"category": "Melee weapons",
 		"defname": "hunting_knife"
 	},
@@ -3224,7 +3224,7 @@
 	},
 	{
 		"abr": "simplebed",
-		"price": 137,
+		"price": 140,
 		"category": "Furniture",
 		"defname": "Bed_Simple"
 	},
@@ -3254,13 +3254,13 @@
 	},
 	{
 		"abr": "club",
-		"price": 141,
+		"price": 140,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club"
 	},
 	{
 		"abr": "adrenaline",
-		"price": 142,
+		"price": 200,
 		"category": "Drugs",
 		"defname": "Adrenaline"
 	},
@@ -3272,7 +3272,7 @@
 	},
 	{
 		"abr": "t-shirt",
-		"price": 143,
+		"price": 140,
 		"category": "Apparel",
 		"defname": "Apparel_BasicShirt"
 	},
@@ -3332,13 +3332,13 @@
 	},
 	{
 		"abr": "greatbow",
-		"price": 154,
+		"price": 150,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
 	},
 	{
 		"abr": "bed",
-		"price": 155,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
@@ -3362,7 +3362,7 @@
 	},
 	{
 		"abr": "button-downshirt",
-		"price": 166,
+		"price": 160,
 		"category": "Apparel",
 		"defname": "Apparel_CollarShirt"
 	},
@@ -3374,13 +3374,13 @@
 	},
 	{
 		"abr": "antitox",
-		"price": 167,
+		"price": 160,
 		"category": "Drugs",
 		"defname": "AntiTox"
 	},
 	{
 		"abr": "artificialclavicle",
-		"price": 167,
+		"price": 160,
 		"category": "Simple prostheses",
 		"defname": "ArtificialClavicle"
 	},
@@ -3392,13 +3392,13 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Cat"
 	},
@@ -3440,13 +3440,13 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": 170,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -3458,13 +3458,13 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
 		"abr": "pegleg",
-		"price": 167,
+		"price": 160,
 		"category": "Basic prostheses",
 		"defname": "PegLeg"
 	},
@@ -3482,7 +3482,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -3512,19 +3512,19 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
 		"abr": "woodencrossbow",
-		"price": 167,
+		"price": 160,
 		"category": "Ranged weapons",
 		"defname": "wooden_crossbow"
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": 160,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
@@ -3548,7 +3548,7 @@
 	},
 	{
 		"abr": "tunic",
-		"price": 171,
+		"price": 170,
 		"category": "Apparel",
 		"defname": "Apparello_Tunic"
 	},
@@ -3566,7 +3566,7 @@
 	},
 	{
 		"abr": "shootingtarget",
-		"price": 176,
+		"price": 175,
 		"category": "Recreation",
 		"defname": "ShootingRangeTarget"
 	},
@@ -3578,13 +3578,13 @@
 	},
 	{
 		"abr": "metalshoulderpads",
-		"price": 179,
+		"price": 170,
 		"category": "Apparel",
 		"defname": "Apparello_Orkpad"
 	},
 	{
 		"abr": "pila",
-		"price": 182,
+		"price": 180,
 		"category": "Ranged weapons",
 		"defname": "Pila"
 	},
@@ -3602,7 +3602,7 @@
 	},
 	{
 		"abr": "chefjacket",
-		"price": 186,
+		"price": 180,
 		"category": "Apparel",
 		"defname": "Apparel_FSChefJacket"
 	},
@@ -3626,7 +3626,7 @@
 	},
 	{
 		"abr": "hookhand",
-		"price": 192,
+		"price": 200,
 		"category": "Basic prostheses",
 		"defname": "HookHand"
 	},
@@ -3650,19 +3650,19 @@
 	},
 	{
 		"abr": "iedtrap",
-		"price": 192,
+		"price": 190,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
 	{
 		"abr": "ikwa",
-		"price": 197,
+		"price": 200,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
 		"abr": "diningchair",
-		"price": 198,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "DiningChair"
 	},
@@ -3674,7 +3674,7 @@
 	},
 	{
 		"abr": "archerytarget",
-		"price": 198,
+		"price": 200,
 		"category": "Recreation",
 		"defname": "ArcheryTarget"
 	},
@@ -3698,7 +3698,7 @@
 	},
 	{
 		"abr": "simpleanimalspine",
-		"price": 202,
+		"price": 200,
 		"category": "Animal Body Part",
 		"defname": "SpineAnimalSimple"
 	},
@@ -3710,13 +3710,13 @@
 	},
 	{
 		"abr": "mace",
-		"price": 203,
+		"price": 200,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace"
 	},
 	{
 		"abr": "tribalheaddress",
-		"price": 203,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress"
 	},
@@ -3728,7 +3728,7 @@
 	},
 	{
 		"abr": "paddedvest",
-		"price": 207,
+		"price": 200,
 		"category": "Apparel",
 		"defname": "Apparello_Sheet"
 	},
@@ -3746,7 +3746,7 @@
 	},
 	{
 		"abr": "tribalwear",
-		"price": 211,
+		"price": 210,
 		"category": "Apparel",
 		"defname": "Apparel_TribalA"
 	},
@@ -3794,19 +3794,19 @@
 	},
 	{
 		"abr": "simpleprostheticanimalarm",
-		"price": 218,
+		"price": 220,
 		"category": "Animal Body Part",
 		"defname": "SimpleProstheticArmAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimalleg",
-		"price": 218,
+		"price": 220,
 		"category": "Animal Body Part",
 		"defname": "SimpleProstheticLegAnimal"
 	},
 	{
 		"abr": "unionsuit",
-		"price": 218,
+		"price": 220,
 		"category": "Apparel",
 		"defname": "Apparel_UniPjays"
 	},
@@ -3830,7 +3830,7 @@
 	},
 	{
 		"abr": "revolver",
-		"price": 226,
+		"price": 220,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -3842,13 +3842,13 @@
 	},
 	{
 		"abr": "autopistol",
-		"price": 232,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "meshshirt",
-		"price": 233,
+		"price": 230,
 		"category": "Apparel",
 		"defname": "Apparello_Urbulence"
 	},
@@ -3890,13 +3890,13 @@
 	},
 	{
 		"abr": "cargoshorts",
-		"price": 248,
+		"price": 250,
 		"category": "Apparel",
 		"defname": "Apparel_FSCargoShorts"
 	},
 	{
 		"abr": "brocadevest",
-		"price": 249,
+		"price": 250,
 		"category": "Apparel",
 		"defname": "Apparello_Brocade"
 	},
@@ -3962,7 +3962,7 @@
 	},
 	{
 		"abr": "scrubs",
-		"price": 258,
+		"price": 260,
 		"category": "Apparel",
 		"defname": "Apparel_FSScrubs"
 	},
@@ -3974,7 +3974,7 @@
 	},
 	{
 		"abr": "desertrobe",
-		"price": 262,
+		"price": 260,
 		"category": "Apparel",
 		"defname": "Apparel_FSDesertRobe"
 	},
@@ -4016,7 +4016,7 @@
 	},
 	{
 		"abr": "jeans",
-		"price": 271,
+		"price": 270,
 		"category": "Pants",
 		"defname": "Apparello_Jeans"
 	},
@@ -4028,7 +4028,7 @@
 	},
 	{
 		"abr": "constructionjacket",
-		"price": 273,
+		"price": 270,
 		"category": "Apparel",
 		"defname": "Apparel_FSConstructionJacket"
 	},
@@ -4064,7 +4064,7 @@
 	},
 	{
 		"abr": "smokepopbelt",
-		"price": 277,
+		"price": 275,
 		"category": "Apparel",
 		"defname": "Apparel_SmokepopBelt"
 	},
@@ -4088,7 +4088,7 @@
 	},
 	{
 		"abr": "chesstable",
-		"price": 281,
+		"price": 280,
 		"category": "Furniture",
 		"defname": "ChessTable"
 	},
@@ -4106,7 +4106,7 @@
 	},
 	{
 		"abr": "swarmshell",
-		"price": 292,
+		"price": 290,
 		"category": "Mortar shells",
 		"defname": "Nanoswarm_shell"
 	},
@@ -4124,13 +4124,13 @@
 	},
 	{
 		"abr": "gardeningvest",
-		"price": 298,
+		"price": 300,
 		"category": "Apparel",
 		"defname": "Apparel_FSGardeningVest"
 	},
 	{
 		"abr": "cargopants",
-		"price": 299,
+		"price": 300,
 		"category": "Pants",
 		"defname": "Apparello_Pollypocket"
 	},
@@ -4178,13 +4178,13 @@
 	},
 	{
 		"abr": "trader'scoat",
-		"price": 309,
+		"price": 300,
 		"category": "Apparel",
 		"defname": "Apparello_Trypophobiaa"
 	},
 	{
 		"abr": "gasmask",
-		"price": 313,
+		"price": 300,
 		"category": "Headgear",
 		"defname": "Apparel_FSGasmask"
 	},
@@ -4208,7 +4208,7 @@
 	},
 	{
 		"abr": "jumpsuit",
-		"price": 321,
+		"price": 320,
 		"category": "Apparel",
 		"defname": "Apparello_GSkin"
 	},
@@ -4220,13 +4220,13 @@
 	},
 	{
 		"abr": "overalls",
-		"price": 321,
+		"price": 320,
 		"category": "Apparel",
 		"defname": "Apparello_XcomOne"
 	},
 	{
 		"abr": "overalls",
-		"price": 321,
+		"price": 320,
 		"category": "Apparel",
 		"defname": "Apparel_FSOveralls"
 	},
@@ -4250,7 +4250,7 @@
 	},
 	{
 		"abr": "spear",
-		"price": 322,
+		"price": 325,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear"
 	},
@@ -4268,7 +4268,7 @@
 	},
 	{
 		"abr": "duster",
-		"price": 327,
+		"price": 320,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
 	},
@@ -4280,13 +4280,13 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": 300,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
@@ -4298,25 +4298,25 @@
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
 		"abr": "crudelightsensor",
-		"price": 333,
+		"price": 330,
 		"category": "Android",
 		"defname": "LightReceivingDiode"
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -4334,13 +4334,13 @@
 	},
 	{
 		"abr": "herculium",
-		"price": 333,
+		"price": 330,
 		"category": "Drugs",
 		"defname": "MFHerculium"
 	},
 	{
 		"abr": "hydraulicjaw",
-		"price": 333,
+		"price": 330,
 		"category": "Simple prostheses",
 		"defname": "HydraulicJaw"
 	},
@@ -4352,37 +4352,37 @@
 	},
 	{
 		"abr": "peithium",
-		"price": 333,
+		"price": 330,
 		"category": "Drugs",
 		"defname": "MFPeithium"
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "Pig"
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": 335,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
 		"abr": "steelarm",
-		"price": 333,
+		"price": 335,
 		"category": "Basic prostheses",
 		"defname": "SteelArm"
 	},
 	{
 		"abr": "surgeon'sapron",
-		"price": 333,
+		"price": 330,
 		"category": "Apparel",
 		"defname": "Apparello_MedicalApron"
 	},
@@ -4394,7 +4394,7 @@
 	},
 	{
 		"abr": "throwingknife",
-		"price": 333,
+		"price": 330,
 		"category": "Ranged weapons",
 		"defname": "throwing_knife"
 	},
@@ -4412,7 +4412,7 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": 330,
 		"category": "Animal",
 		"defname": "WildBoar"
 	},
@@ -4466,7 +4466,7 @@
 	},
 	{
 		"abr": "machete",
-		"price": 367,
+		"price": 366,
 		"category": "Melee weapons",
 		"defname": "machete"
 	},
@@ -4514,7 +4514,7 @@
 	},
 	{
 		"abr": "crossbowwithoptics",
-		"price": 383,
+		"price": 380,
 		"category": "Ranged weapons",
 		"defname": "Gun_newcrossbow"
 	},
@@ -4544,13 +4544,13 @@
 	},
 	{
 		"abr": "poncho",
-		"price": 392,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "Apparello_PonPon"
 	},
 	{
 		"abr": "raiderjacket",
-		"price": 392,
+		"price": 390,
 		"category": "Apparel",
 		"defname": "Apparello_Skull"
 	},
@@ -4568,19 +4568,19 @@
 	},
 	{
 		"abr": "molotovcocktails",
-		"price": 408,
+		"price": 400,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMolotov"
 	},
 	{
 		"abr": "shuriken",
-		"price": 408,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "shuriken"
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
@@ -4592,49 +4592,49 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": 410,
 		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
 		"abr": "glock21",
-		"price": 417,
+		"price": 420,
 		"category": "Ranged weapons",
 		"defname": "Gun_glock21_cwm"
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": 420,
 		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": 420,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": 420,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": 420,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
 		"abr": "m1911",
-		"price": 417,
+		"price": 420,
 		"category": "Ranged weapons",
 		"defname": "Gun_m1911_cwm"
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": 410,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -4676,13 +4676,13 @@
 	},
 	{
 		"abr": "industrialradio",
-		"price": 433,
+		"price": 430,
 		"category": "Recreation",
 		"defname": "Radio_Industrial"
 	},
 	{
 		"abr": "longcoat",
-		"price": 433,
+		"price": 430,
 		"category": "Apparel",
 		"defname": "Apparello_Longlylonglong"
 	},
@@ -4706,31 +4706,31 @@
 	},
 	{
 		"abr": "fraggrenades",
-		"price": 442,
+		"price": 440,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
 	{
 		"abr": "longsword",
-		"price": 442,
+		"price": 440,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
 		"abr": "medicaluniformcoat",
-		"price": 442,
+		"price": 440,
 		"category": "Apparel",
 		"defname": "Apparello_SFSurge"
 	},
 	{
 		"abr": "militaryfatigues",
-		"price": 442,
+		"price": 440,
 		"category": "Apparel",
 		"defname": "Apparel_FSFatigues"
 	},
 	{
 		"abr": "uniformcoat",
-		"price": 442,
+		"price": 440,
 		"category": "Apparel",
 		"defname": "Apparello_Preston"
 	},
@@ -4808,7 +4808,7 @@
 	},
 	{
 		"abr": ".44magnum",
-		"price": 467,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_magnum44_cwm"
 	},
@@ -4820,19 +4820,19 @@
 	},
 	{
 		"abr": "bionicanimalkidney",
-		"price": 483,
+		"price": 480,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalKidney"
 	},
 	{
 		"abr": "bionicanimalliver",
-		"price": 483,
+		"price": 480,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLiver"
 	},
 	{
 		"abr": "bionicanimallung",
-		"price": 483,
+		"price": 480,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLung"
 	},
@@ -4844,13 +4844,13 @@
 	},
 	{
 		"abr": "flakjacket",
-		"price": 483,
+		"price": 490,
 		"category": "Apparel",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "bionicanimalstomach",
-		"price": 492,
+		"price": 490,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalStomach"
 	},
@@ -4994,7 +4994,7 @@
 	},
 	{
 		"abr": "incendiarylauncher",
-		"price": 508,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
 	},
@@ -5006,7 +5006,7 @@
 	},
 	{
 		"abr": "mini-turret",
-		"price": 508,
+		"price": 500,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
@@ -5018,25 +5018,25 @@
 	},
 	{
 		"abr": "izh43",
-		"price": 517,
+		"price": 520,
 		"category": "Ranged weapons",
 		"defname": "Gun_izh43_cwm"
 	},
 	{
 		"abr": "largesculpture",
-		"price": 517,
+		"price": 520,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
 	{
 		"abr": "oldcomputer",
-		"price": 517,
+		"price": 510,
 		"category": "Recreation",
 		"defname": "Joy_InudstrialComputer"
 	},
 	{
 		"abr": "toz-34",
-		"price": 517,
+		"price": 520,
 		"category": "Ranged weapons",
 		"defname": "Gun_toz34_cwm"
 	},
@@ -5090,37 +5090,37 @@
 	},
 	{
 		"abr": "furcoat",
-		"price": 558,
+		"price": 560,
 		"category": "Apparel",
 		"defname": "Apparel_FSFurCoat"
 	},
 	{
 		"abr": "thermalpants",
-		"price": 558,
+		"price": 560,
 		"category": "Apparel",
 		"defname": "Apparel_FSThermalPants"
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": 580,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "beretta93r",
-		"price": 583,
+		"price": 580,
 		"category": "Ranged weapons",
 		"defname": "Gun_m93r_cwm"
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": 580,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -5132,19 +5132,19 @@
 	},
 	{
 		"abr": "scorpionvz.68",
-		"price": 583,
+		"price": 580,
 		"category": "Ranged weapons",
 		"defname": "Gun_scorpionvz68_cwm"
 	},
 	{
 		"abr": "telescope",
-		"price": 583,
+		"price": 585,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": 580,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -5156,7 +5156,7 @@
 	},
 	{
 		"abr": "heavysmg",
-		"price": 592,
+		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
@@ -5222,7 +5222,7 @@
 	},
 	{
 		"abr": "arcademachine",
-		"price": 650,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Joy_Arcade"
 	},
@@ -5234,7 +5234,7 @@
 	},
 	{
 		"abr": "bionicanimalheart",
-		"price": 667,
+		"price": 660,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalHeart"
 	},
@@ -5246,31 +5246,31 @@
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": 660,
 		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
 		"abr": "crudebatterypack",
-		"price": 667,
+		"price": 660,
 		"category": "Android",
 		"defname": "SmallBatteryPack"
 	},
 	{
 		"abr": "crudebio-reactor",
-		"price": 667,
+		"price": 660,
 		"category": "Android",
 		"defname": "LowPowerTransformer"
 	},
 	{
 		"abr": "crudecoolantpump",
-		"price": 667,
+		"price": 660,
 		"category": "Android",
 		"defname": "FlimsyCoolantPump"
 	},
 	{
 		"abr": "crudemechanitestorage",
-		"price": 667,
+		"price": 660,
 		"category": "Android",
 		"defname": "TubeSealantTank"
 	},
@@ -5288,7 +5288,7 @@
 	},
 	{
 		"abr": "hospitalbed",
-		"price": 667,
+		"price": 660,
 		"category": "Furniture",
 		"defname": "HospitalBed"
 	},
@@ -5300,25 +5300,25 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": 660,
 		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
 		"abr": "simpleprostheticfoot",
-		"price": 667,
+		"price": 660,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "uzicarbine",
-		"price": 667,
+		"price": 660,
 		"category": "Ranged weapons",
 		"defname": "Gun_uzi_cwm"
 	},
 	{
 		"abr": "winchestermodel1887",
-		"price": 667,
+		"price": 660,
 		"category": "Ranged weapons",
 		"defname": "Gun_winmodel1887_cwm"
 	},
@@ -5360,13 +5360,13 @@
 	},
 	{
 		"abr": "lmg",
-		"price": 708,
+		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "mortar",
-		"price": 708,
+		"price": 700,
 		"category": "Security",
 		"defname": "Turret_Mortar"
 	},
@@ -5396,7 +5396,7 @@
 	},
 	{
 		"abr": "royalendtable",
-		"price": 742,
+		"price": 740,
 		"category": "Furniture",
 		"defname": "Table_RoyalEndTable"
 	},
@@ -5468,19 +5468,19 @@
 	},
 	{
 		"abr": "mp40",
-		"price": 783,
+		"price": 780,
 		"category": "Ranged weapons",
 		"defname": "Gun_mp40_cwm"
 	},
 	{
 		"abr": "saiga12k",
-		"price": 783,
+		"price": 780,
 		"category": "Ranged weapons",
 		"defname": "Gun_saiga12_cwm"
 	},
 	{
 		"abr": "spas-12",
-		"price": 783,
+		"price": 785,
 		"category": "Ranged weapons",
 		"defname": "Gun_spas12_cwm"
 	},
@@ -5492,7 +5492,7 @@
 	},
 	{
 		"abr": "lightreceptor",
-		"price": 792,
+		"price": 790,
 		"category": "Simple prostheses",
 		"defname": "LightReceptor"
 	},
@@ -5522,7 +5522,7 @@
 	},
 	{
 		"abr": "platearmor",
-		"price": 792,
+		"price": 790,
 		"category": "Apparel",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -5558,7 +5558,7 @@
 	},
 	{
 		"abr": "aks74u",
-		"price": 808,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_aks74u_cwm"
 	},
@@ -5570,13 +5570,13 @@
 	},
 	{
 		"abr": "basicreplacementarm",
-		"price": 833,
+		"price": 800,
 		"category": "Android",
 		"defname": "BasicReplacementArm"
 	},
 	{
 		"abr": "basicreplacementleg",
-		"price": 833,
+		"price": 800,
 		"category": "Android",
 		"defname": "BasicReplacementLeg"
 	},
@@ -5588,13 +5588,13 @@
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 833,
+		"price": 830,
 		"category": "Simple prostheses",
 		"defname": "CochlearImplant"
 	},
 	{
 		"abr": "ear",
-		"price": 833,
+		"price": 830,
 		"category": "Natural",
 		"defname": "Ear"
 	},
@@ -5606,61 +5606,61 @@
 	},
 	{
 		"abr": "jaw",
-		"price": 833,
+		"price": 830,
 		"category": "Natural",
 		"defname": "Jaw"
 	},
 	{
 		"abr": "m1014",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_m1014_cwm"
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": 830,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
 		"abr": "mosin–nagant",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_mosin_cwm"
 	},
 	{
 		"abr": "mp5sd",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_mp5sd_cwm"
 	},
 	{
 		"abr": "mp5а2",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_mp5a2_cwm"
 	},
 	{
 		"abr": "nose",
-		"price": 833,
+		"price": 830,
 		"category": "Natural",
 		"defname": "Nose"
 	},
 	{
 		"abr": "qbz-95b",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_qbz95b_cwm"
 	},
 	{
 		"abr": "rpo-zshmel",
-		"price": 833,
+		"price": 830,
 		"category": "Ranged weapons",
 		"defname": "Gun_prozshmel_cwm"
 	},
 	{
 		"abr": "steelframing",
-		"price": 833,
+		"price": 835,
 		"category": "Android",
 		"defname": "SteelPlating"
 	},
@@ -5672,7 +5672,7 @@
 	},
 	{
 		"abr": "tunicaelmógo",
-		"price": 833,
+		"price": 830,
 		"category": "Apparel",
 		"defname": "Apparello_Mogo"
 	},
@@ -5702,25 +5702,25 @@
 	},
 	{
 		"abr": "bionicanimalearimplant",
-		"price": 867,
+		"price": 860,
 		"category": "Animal Body Part",
 		"defname": "EarAnimalBionic"
 	},
 	{
 		"abr": "bionicanimaleye",
-		"price": 867,
+		"price": 860,
 		"category": "Animal Body Part",
 		"defname": "BionicEyeAnimal"
 	},
 	{
 		"abr": "bionicanimaljaw",
-		"price": 867,
+		"price": 860,
 		"category": "Animal Body Part",
 		"defname": "JawAnimalBionic"
 	},
 	{
 		"abr": "dao-12",
-		"price": 867,
+		"price": 860,
 		"category": "Ranged weapons",
 		"defname": "Gun_dao12_cwm"
 	},
@@ -5738,37 +5738,37 @@
 	},
 	{
 		"abr": "hkump",
-		"price": 867,
+		"price": 860,
 		"category": "Ranged weapons",
 		"defname": "Gun_ump_cwm"
 	},
 	{
 		"abr": "sniperrifle",
-		"price": 883,
+		"price": 880,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "bionicanimalarm",
-		"price": 892,
+		"price": 890,
 		"category": "Animal Body Part",
 		"defname": "BionicArmAnimal"
 	},
 	{
 		"abr": "bionicanimalleg",
-		"price": 892,
+		"price": 890,
 		"category": "Animal Body Part",
 		"defname": "BionicLegAnimal"
 	},
 	{
 		"abr": "mk3a1",
-		"price": 892,
+		"price": 890,
 		"category": "Ranged weapons",
 		"defname": "Gun_jackhammer_cwm"
 	},
 	{
 		"abr": "usas-12",
-		"price": 892,
+		"price": 890,
 		"category": "Ranged weapons",
 		"defname": "Gun_usas12_cwm"
 	},
@@ -5804,25 +5804,25 @@
 	},
 	{
 		"abr": "m4a2",
-		"price": 917,
+		"price": 910,
 		"category": "Ranged weapons",
 		"defname": "Gun_m4a2_cwm"
 	},
 	{
 		"abr": "machinepistol",
-		"price": 917,
+		"price": 910,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "pp-19",
-		"price": 917,
+		"price": 920,
 		"category": "Ranged weapons",
 		"defname": "Gun_pp19_cwm"
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": 920,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
@@ -5840,13 +5840,13 @@
 	},
 	{
 		"abr": "stationarydshkm",
-		"price": 983,
+		"price": 985,
 		"category": "Security",
 		"defname": "Gun_dshkm_def"
 	},
 	{
 		"abr": "stationarym2",
-		"price": 983,
+		"price": 985,
 		"category": "Security",
 		"defname": "Gun_m2_def"
 	},
@@ -5906,7 +5906,7 @@
 	},
 	{
 		"abr": "longwaveradio",
-		"price": 1033,
+		"price": 1030,
 		"category": "Recreation",
 		"defname": "Radio_Spacer"
 	},
@@ -5924,19 +5924,19 @@
 	},
 	{
 		"abr": "ak104",
-		"price": 1067,
+		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak104_cwm"
 	},
 	{
 		"abr": "ak107",
-		"price": 1083,
+		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak107_cwm"
 	},
 	{
 		"abr": "fnp90",
-		"price": 1083,
+		"price": 1080,
 		"category": "Ranged weapons",
 		"defname": "Gun_p90_cwm"
 	},
@@ -5948,13 +5948,13 @@
 	},
 	{
 		"abr": "m1garand",
-		"price": 1083,
+		"price": 1080,
 		"category": "Ranged weapons",
 		"defname": "Gun_m1_cwm"
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": 1080,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
@@ -5978,7 +5978,7 @@
 	},
 	{
 		"abr": "tar-21",
-		"price": 1117,
+		"price": 1120,
 		"category": "Ranged weapons",
 		"defname": "Gun_tar21_cwm"
 	},
@@ -6026,79 +6026,79 @@
 	},
 	{
 		"abr": "basiccounterweight",
-		"price": 1167,
+		"price": -10,
 		"category": "Android",
 		"defname": "BasicRearCounterweight"
 	},
 	{
 		"abr": "browningm1918bar",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_m1918_cwm"
 	},
 	{
 		"abr": "c7a1",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_c7a1_cwm"
 	},
 	{
 		"abr": "crudejaw",
-		"price": 1167,
+		"price": 1160,
 		"category": "Android",
 		"defname": "CrudeJawAndroid"
 	},
 	{
 		"abr": "famasg2",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_famas_cwm"
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": 1160,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "hydraulicarm",
-		"price": 1167,
+		"price": 1160,
 		"category": "Android",
 		"defname": "HydraulicArm"
 	},
 	{
 		"abr": "hydraulicleg",
-		"price": 1167,
+		"price": 1160,
 		"category": "Android",
 		"defname": "HydraulicLeg"
 	},
 	{
 		"abr": "m416",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_m416_cwm"
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": 1160,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": 1160,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": 1160,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": 1160,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
@@ -6128,25 +6128,25 @@
 	},
 	{
 		"abr": "sg550",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_sg550_cwm"
 	},
 	{
 		"abr": "simpleprostheticarm",
-		"price": 1167,
+		"price": 1160,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "simpleprostheticleg",
-		"price": 1167,
+		"price": 1160,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
 		"abr": "springfieldm1903",
-		"price": 1167,
+		"price": 1160,
 		"category": "Ranged weapons",
 		"defname": "Gun_m1903_cwm"
 	},
@@ -6170,7 +6170,7 @@
 	},
 	{
 		"abr": "mk.16scar-l",
-		"price": 1183,
+		"price": 1180,
 		"category": "Ranged weapons",
 		"defname": "Gun_scarl_cwm"
 	},
@@ -6182,7 +6182,7 @@
 	},
 	{
 		"abr": "stationaryspg-9kopye",
-		"price": 1208,
+		"price": 1200,
 		"category": "Security",
 		"defname": "Gun_spg9_def"
 	},
@@ -6200,7 +6200,7 @@
 	},
 	{
 		"abr": "g36a1",
-		"price": 1233,
+		"price": 1230,
 		"category": "Ranged weapons",
 		"defname": "Gun_g36a1_cwm"
 	},
@@ -6272,19 +6272,19 @@
 	},
 	{
 		"abr": "l85a2",
-		"price": 1267,
+		"price": 1270,
 		"category": "Ranged weapons",
 		"defname": "Gun_l85a2_cwm"
 	},
 	{
 		"abr": "steyraug",
-		"price": 1267,
+		"price": 1265,
 		"category": "Ranged weapons",
 		"defname": "Gun_steyraug_cwm"
 	},
 	{
 		"abr": "ak5c",
-		"price": 1283,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak5_cwm"
 	},
@@ -6308,25 +6308,25 @@
 	},
 	{
 		"abr": "rpk74",
-		"price": 1317,
+		"price": 1300,
 		"category": "Ranged weapons",
 		"defname": "Gun_rpk74_cwm"
 	},
 	{
 		"abr": "40mmcannon",
-		"price": 1333,
+		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "Mech40MMCannon"
 	},
 	{
 		"abr": "adrenalineribreplacement",
-		"price": 1333,
+		"price": 1500,
 		"category": "Bionics",
 		"defname": "AdrenalineRib"
 	},
 	{
 		"abr": "advancedsmellingsensor",
-		"price": 1333,
+		"price": 1300,
 		"category": "Android",
 		"defname": "SmellingAdvS"
 	},
@@ -6338,7 +6338,7 @@
 	},
 	{
 		"abr": "an-94",
-		"price": 1333,
+		"price": 1300,
 		"category": "Ranged weapons",
 		"defname": "Gun_an94_cwm"
 	},
@@ -6350,7 +6350,7 @@
 	},
 	{
 		"abr": "bionicearimplant",
-		"price": 1333,
+		"price": 1300,
 		"category": "Bionics",
 		"defname": "BionicEar"
 	},
@@ -6368,7 +6368,7 @@
 	},
 	{
 		"abr": "druggedribreplacement",
-		"price": 1333,
+		"price": 1330,
 		"category": "Bionics",
 		"defname": "DruggedRib"
 	},
@@ -6380,13 +6380,13 @@
 	},
 	{
 		"abr": "fnfal",
-		"price": 1333,
+		"price": 1300,
 		"category": "Ranged weapons",
 		"defname": "Gun_fal_cwm"
 	},
 	{
 		"abr": "fractalenhancement",
-		"price": 1333,
+		"price": 1330,
 		"category": "Drugs",
 		"defname": "FractalPill"
 	},
@@ -6404,7 +6404,7 @@
 	},
 	{
 		"abr": "handcannon",
-		"price": 1333,
+		"price": 1330,
 		"category": "Ranged weapons",
 		"defname": "MechHandCannon"
 	},
@@ -6416,19 +6416,19 @@
 	},
 	{
 		"abr": "m27iar",
-		"price": 1333,
+		"price": 1330,
 		"category": "Ranged weapons",
 		"defname": "Gun_m27_cwm"
 	},
 	{
 		"abr": "m79",
-		"price": 1333,
+		"price": 1330,
 		"category": "Ranged weapons",
 		"defname": "Gun_m79_cwm"
 	},
 	{
 		"abr": "mastiffshotgun",
-		"price": 1333,
+		"price": 1330,
 		"category": "Ranged weapons",
 		"defname": "MechMastiffGun"
 	},
@@ -6440,7 +6440,7 @@
 	},
 	{
 		"abr": "painkillerribreplacement",
-		"price": 1333,
+		"price": 1330,
 		"category": "Bionics",
 		"defname": "PainkillerRib"
 	},
@@ -6452,7 +6452,7 @@
 	},
 	{
 		"abr": "plasteelframecoverings",
-		"price": 1333,
+		"price": 1330,
 		"category": "Android",
 		"defname": "PlasteelPlating"
 	},
@@ -6482,13 +6482,13 @@
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": 1333,
+		"price": 1330,
 		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": 1335,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -6530,13 +6530,13 @@
 	},
 	{
 		"abr": "steyrscout",
-		"price": 1417,
+		"price": 1420,
 		"category": "Ranged weapons",
 		"defname": "Gun_steyrscout_cwm"
 	},
 	{
 		"abr": "surrogateheart",
-		"price": 1417,
+		"price": 1420,
 		"category": "Surrogate organs",
 		"defname": "SurrogateHeart"
 	},
@@ -6566,25 +6566,25 @@
 	},
 	{
 		"abr": "bionicanimalbrainstimulator",
-		"price": 1508,
+		"price": 1500,
 		"category": "Animal Body Part",
 		"defname": "AnimalBrainStimulator"
 	},
 	{
 		"abr": "sr-25",
-		"price": 1517,
+		"price": 1520,
 		"category": "Ranged weapons",
 		"defname": "Gun_sr25_cwm"
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": 1500,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
 	{
 		"abr": "m39emr",
-		"price": 1533,
+		"price": 1530,
 		"category": "Ranged weapons",
 		"defname": "Gun_m39_cwm"
 	},
@@ -6602,13 +6602,13 @@
 	},
 	{
 		"abr": "fnminimi",
-		"price": 1583,
+		"price": 1580,
 		"category": "Ranged weapons",
 		"defname": "Gun_minimi_cwm"
 	},
 	{
 		"abr": "m249",
-		"price": 1583,
+		"price": 1580,
 		"category": "Ranged weapons",
 		"defname": "Gun_m249_cwm"
 	},
@@ -6620,19 +6620,19 @@
 	},
 	{
 		"abr": "remington700",
-		"price": 1583,
+		"price": 1580,
 		"category": "Ranged weapons",
 		"defname": "Gun_r700_cwm"
 	},
 	{
 		"abr": "royalarmchair",
-		"price": 1583,
+		"price": 1580,
 		"category": "Furniture",
 		"defname": "Seat_RoyalArmchair"
 	},
 	{
 		"abr": "winchestermodel70",
-		"price": 1583,
+		"price": 1580,
 		"category": "Ranged weapons",
 		"defname": "Gun_winchester70_cwm"
 	},
@@ -6656,67 +6656,67 @@
 	},
 	{
 		"abr": "bionichand",
-		"price": 1667,
+		"price": 1660,
 		"category": "Bionics",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicjawimplant",
-		"price": 1667,
+		"price": 1660,
 		"category": "Bionics",
 		"defname": "BionicJaw"
 	},
 	{
 		"abr": "brainstimulator",
-		"price": 1667,
+		"price": 1660,
 		"category": "Surrogate organs",
 		"defname": "BrainStimulator"
 	},
 	{
 		"abr": "charismaimplant",
-		"price": 1667,
+		"price": 1660,
 		"category": "Android",
 		"defname": "CharismaMindImplant"
 	},
 	{
 		"abr": "compositeframeplating",
-		"price": 1667,
+		"price": 1660,
 		"category": "Android",
 		"defname": "CompositePlating"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": 1660,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
 	{
 		"abr": "hydraulicframe",
-		"price": 1667,
+		"price": 1660,
 		"category": "Android",
 		"defname": "HydraulicFrame"
 	},
 	{
 		"abr": "kidney",
-		"price": 1667,
+		"price": 1660,
 		"category": "Natural",
 		"defname": "Kidney"
 	},
 	{
 		"abr": "m40a3",
-		"price": 1667,
+		"price": 1660,
 		"category": "Ranged weapons",
 		"defname": "Gun_m40a3_cwm"
 	},
 	{
 		"abr": "mg42",
-		"price": 1667,
+		"price": 1660,
 		"category": "Ranged weapons",
 		"defname": "Gun_mg42_cwm"
 	},
 	{
 		"abr": "miningarm",
-		"price": 1667,
+		"price": 1660,
 		"category": "Android",
 		"defname": "MiningArm"
 	},
@@ -6728,7 +6728,7 @@
 	},
 	{
 		"abr": "prototypehivearmor",
-		"price": 1667,
+		"price": 1660,
 		"category": "Rare equipment",
 		"defname": "Apparello_HiveArmor"
 	},
@@ -6758,31 +6758,31 @@
 	},
 	{
 		"abr": "stomach",
-		"price": 1667,
+		"price": 1670,
 		"category": "Natural",
 		"defname": "Stomach"
 	},
 	{
 		"abr": "svd",
-		"price": 1667,
+		"price": 1670,
 		"category": "Ranged weapons",
 		"defname": "Gun_svd_cwm"
 	},
 	{
 		"abr": "svu",
-		"price": 1667,
+		"price": 1665,
 		"category": "Ranged weapons",
 		"defname": "Gun_svu_cwm"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 1665,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": 1660,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -6794,7 +6794,7 @@
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": 1680,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
@@ -6848,25 +6848,25 @@
 	},
 	{
 		"abr": "asval",
-		"price": 1833,
+		"price": 1800,
 		"category": "Ranged weapons",
 		"defname": "Gun_val_cwm"
 	},
 	{
 		"abr": "m240b",
-		"price": 1833,
+		"price": 1830,
 		"category": "Ranged weapons",
 		"defname": "Gun_m240b_cwm"
 	},
 	{
 		"abr": "m60e3",
-		"price": 1833,
+		"price": 1830,
 		"category": "Ranged weapons",
 		"defname": "Gun_m60e3_cwm"
 	},
 	{
 		"abr": "mg3",
-		"price": 1833,
+		"price": 1830,
 		"category": "Ranged weapons",
 		"defname": "Gun_mg3_cwm"
 	},
@@ -6878,7 +6878,7 @@
 	},
 	{
 		"abr": "minigun",
-		"price": 1933,
+		"price": 1900,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
@@ -6956,13 +6956,13 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": 2000,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "royalposterbed",
-		"price": 2008,
+		"price": 2000,
 		"category": "Furniture",
 		"defname": "Bed_Kingsize"
 	},
@@ -6992,37 +6992,37 @@
 	},
 	{
 		"abr": "arm",
-		"price": 2167,
+		"price": 2100,
 		"category": "Natural",
 		"defname": "Arm"
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": 2160,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "leg",
-		"price": 2167,
+		"price": 2160,
 		"category": "Natural",
 		"defname": "Leg"
 	},
 	{
 		"abr": "pkppecheneg",
-		"price": 2167,
+		"price": 2160,
 		"category": "Ranged weapons",
 		"defname": "Gun_pecheneg_cwm"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": 2160,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
 	{
 		"abr": "vssvintorez",
-		"price": 2167,
+		"price": 2160,
 		"category": "Ranged weapons",
 		"defname": "Gun_vintorez_cwm"
 	},
@@ -7040,19 +7040,19 @@
 	},
 	{
 		"abr": "androidassemblykit",
-		"price": 2250,
+		"price": -10,
 		"category": "Items",
 		"defname": "AndroidT1Kit"
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": 2260,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "frf2",
-		"price": 2333,
+		"price": 2330,
 		"category": "Ranged weapons",
 		"defname": "Gun_frf2_cmw"
 	},
@@ -7076,13 +7076,13 @@
 	},
 	{
 		"abr": "hkpsg1",
-		"price": 2417,
+		"price": 2400,
 		"category": "Ranged weapons",
 		"defname": "Gun_psg1_cmw"
 	},
 	{
 		"abr": "m32milkor",
-		"price": 2417,
+		"price": 2420,
 		"category": "Ranged weapons",
 		"defname": "Gun_m32_cwm"
 	},
@@ -7172,13 +7172,13 @@
 	},
 	{
 		"abr": "blueprintsimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "BuilderMindImplant"
 	},
 	{
 		"abr": "cuisineimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "CookingMindImplant"
 	},
@@ -7190,13 +7190,13 @@
 	},
 	{
 		"abr": "negotiatorimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "NegotiationMindImplant"
 	},
 	{
 		"abr": "neuralhighways",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "SpeedMindImplant"
 	},
@@ -7208,31 +7208,31 @@
 	},
 	{
 		"abr": "positronicrewiring",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "PositronMindImplant"
 	},
 	{
 		"abr": "rpg-7",
-		"price": 2667,
+		"price": 2660,
 		"category": "Ranged weapons",
 		"defname": "Gun_rpg7_cwm"
 	},
 	{
 		"abr": "soldierimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
 	},
 	{
 		"abr": "tricorderimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "SurgeonMindImplant"
 	},
 	{
 		"abr": "zoologyimplant",
-		"price": 2667,
+		"price": 2660,
 		"category": "Android",
 		"defname": "AnimalMindImplant"
 	},
@@ -7244,25 +7244,25 @@
 	},
 	{
 		"abr": "advancedbatterypack",
-		"price": 2833,
+		"price": 2800,
 		"category": "Android",
 		"defname": "NanowireBattery"
 	},
 	{
 		"abr": "advancedbio-reactor",
-		"price": 2833,
+		"price": 2800,
 		"category": "Android",
 		"defname": "HighPowerTransformer"
 	},
 	{
 		"abr": "advancedpowerconverter",
-		"price": 2833,
+		"price": 2800,
 		"category": "Android",
 		"defname": "HighPowerConverter"
 	},
 	{
 		"abr": "carlgustafm2",
-		"price": 2833,
+		"price": 2800,
 		"category": "Ranged weapons",
 		"defname": "Gun_carl_gustaf_m2_cwm"
 	},
@@ -7274,25 +7274,25 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": 2830,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
 	{
 		"abr": "bionicarm",
-		"price": 2917,
+		"price": 2900,
 		"category": "Bionics",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 2917,
+		"price": 2900,
 		"category": "Bionics",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 2917,
+		"price": 2900,
 		"category": "Bionics",
 		"defname": "BionicSpine"
 	},
@@ -7304,25 +7304,25 @@
 	},
 	{
 		"abr": "synthetickidney",
-		"price": 2917,
+		"price": 2920,
 		"category": "Synthetic organs",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "syntheticliver",
-		"price": 2917,
+		"price": 2920,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "syntheticlung",
-		"price": 2917,
+		"price": 2920,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
-		"price": 2917,
+		"price": 2920,
 		"category": "Synthetic organs",
 		"defname": "SyntheticStomach"
 	},
@@ -7364,19 +7364,19 @@
 	},
 	{
 		"abr": "agriculturalimplant",
-		"price": 3333,
+		"price": 3000,
 		"category": "Android",
 		"defname": "FarmingMindImplant"
 	},
 	{
 		"abr": "cyberneticjaw",
-		"price": 3333,
+		"price": 3300,
 		"category": "Android",
 		"defname": "AdvJawAndroid"
 	},
 	{
 		"abr": "engineeringimplant",
-		"price": 3333,
+		"price": 3300,
 		"category": "Android",
 		"defname": "MechanicMindImplant"
 	},
@@ -7388,31 +7388,31 @@
 	},
 	{
 		"abr": "geologicalimplant",
-		"price": 3333,
+		"price": 3330,
 		"category": "Android",
 		"defname": "GeoMindImplant"
 	},
 	{
 		"abr": "heart",
-		"price": 3333,
+		"price": 3330,
 		"category": "Natural",
 		"defname": "Heart"
 	},
 	{
 		"abr": "liver",
-		"price": 3333,
+		"price": 3330,
 		"category": "Natural",
 		"defname": "Liver"
 	},
 	{
 		"abr": "syntheticheart",
-		"price": 3333,
+		"price": 3330,
 		"category": "Synthetic organs",
 		"defname": "SyntheticHeart"
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": 3400,
 		"category": "Apparel",
 		"defname": "Apparel_PowerArmor"
 	},
@@ -7424,7 +7424,7 @@
 	},
 	{
 		"abr": "archotechhearingsensor",
-		"price": 3667,
+		"price": 3600,
 		"category": "Android",
 		"defname": "ArchHearingS"
 	},
@@ -7436,7 +7436,7 @@
 	},
 	{
 		"abr": "electronicbrainpal",
-		"price": 3833,
+		"price": 3800,
 		"category": "Artificial",
 		"defname": "ElectronicTacticalImplant"
 	},
@@ -7502,25 +7502,25 @@
 	},
 	{
 		"abr": "advancedbionicfoot",
-		"price": 4583,
+		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 4600,
 		"category": "Artificial",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 4600,
 		"category": "Artificial",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 4600,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
 	},
@@ -7544,13 +7544,13 @@
 	},
 	{
 		"abr": "archotechbatterypack",
-		"price": 5333,
+		"price": 5300,
 		"category": "Android",
 		"defname": "SecretBatteryPack"
 	},
 	{
 		"abr": "railgun",
-		"price": 5333,
+		"price": 5330,
 		"category": "Ranged weapons",
 		"defname": "Gun_RailgunMKI"
 	},
@@ -7562,13 +7562,13 @@
 	},
 	{
 		"abr": "bionicbrainpal",
-		"price": 5667,
+		"price": 5660,
 		"category": "Artificial",
 		"defname": "BionicTacticalImplant"
 	},
 	{
 		"abr": "archotechpowerconverter",
-		"price": 5833,
+		"price": 5800,
 		"category": "Android",
 		"defname": "QuantumConverter"
 	},
@@ -7580,13 +7580,13 @@
 	},
 	{
 		"abr": "musclestimulator",
-		"price": 5833,
+		"price": 5830,
 		"category": "Synthetic organs",
 		"defname": "MuscleStimulator"
 	},
 	{
 		"abr": "tacticalcorneaimplant",
-		"price": 5833,
+		"price": 5830,
 		"category": "Synthetic organs",
 		"defname": "TacticalCorneaImplant"
 	},
@@ -7610,25 +7610,25 @@
 	},
 	{
 		"abr": "aipersonacore",
-		"price": 6667,
+		"price": 6600,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
 	{
 		"abr": "archotecharchotechbio-reactor",
-		"price": 6667,
+		"price": 6000,
 		"category": "Android",
 		"defname": "MolecularDecomposer"
 	},
 	{
 		"abr": "archotechcoolantpump",
-		"price": 6667,
+		"price": 6600,
 		"category": "Android",
 		"defname": "SecretCoolantPump"
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": 6660,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -7724,19 +7724,19 @@
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 8333,
+		"price": 8000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicleg",
-		"price": 8333,
+		"price": 8000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
-		"price": 8333,
+		"price": 8000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicSpine"
 	},
@@ -7754,7 +7754,7 @@
 	},
 	{
 		"abr": "cyberneticleg",
-		"price": 9167,
+		"price": 9160,
 		"category": "Android",
 		"defname": "CyberReplacementLeg"
 	},
@@ -7784,7 +7784,7 @@
 	},
 	{
 		"abr": "bastion",
-		"price": 11667,
+		"price": 11000,
 		"category": "Drugs",
 		"defname": "MFBastion"
 	},
@@ -7796,7 +7796,7 @@
 	},
 	{
 		"abr": "seraphium",
-		"price": 13333,
+		"price": 13330,
 		"category": "Drugs",
 		"defname": "MFAngelium"
 	},
@@ -7814,19 +7814,19 @@
 	},
 	{
 		"abr": "advancedpowerarm",
-		"price": 16667,
+		"price": 16000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "addictionpurifier",
-		"price": 18333,
+		"price": 18000,
 		"category": "Drugs",
 		"defname": "MFAddictionPurifier"
 	},
 	{
 		"abr": "trollblood",
-		"price": 18333,
+		"price": 18330,
 		"category": "Drugs",
 		"defname": "MFHealingFactor"
 	},
@@ -7844,25 +7844,25 @@
 	},
 	{
 		"abr": "concussiveturret",
-		"price": 2292,
+		"price": 2200,
 		"category": "Security",
 		"defname": "Turret_ConcussiveTurret"
 	},
 	{
 		"abr": "empturret",
-		"price": 3267,
+		"price": 3260,
 		"category": "Security",
 		"defname": "Turret_STEMPTurret"
 	},
 	{
 		"abr": "energyturret",
-		"price": 2158,
+		"price": 2100,
 		"category": "Security",
 		"defname": "Turret_EnergyTurret"
 	},
 	{
 		"abr": "heavyturret",
-		"price": 3092,
+		"price": 3100,
 		"category": "Security",
 		"defname": "Turret_HeavyTurret"
 	},
@@ -7904,7 +7904,7 @@
 	},
 	{
 		"abr": "tazingturret",
-		"price": 583,
+		"price": 585,
 		"category": "Security",
 		"defname": "Turret_TazingTurret"
 	},
@@ -7991,7 +7991,7 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_KingsizeGuest"
-	}
+	},
 	],
 	"total": 1346
 }
