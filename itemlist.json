@@ -1982,7 +1982,7 @@
 	},
 	{
 		"abr": "cannedmeal",
-		"price": 30,
+		"price": -10,
 		"category": "Meals",
 		"defname": "MealCannedFood"
 	},
@@ -2384,7 +2384,7 @@
 	},
 	{
 		"abr": "repairkit",
-		"price": 50,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "RepairKitAT"
 	},
@@ -5858,7 +5858,7 @@
 	},
 	{
 		"abr": "aks74",
-		"price": 1000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_aks74_cwm"
 	},
@@ -5924,13 +5924,13 @@
 	},
 	{
 		"abr": "ak104",
-		"price": 1000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak104_cwm"
 	},
 	{
 		"abr": "ak107",
-		"price": 1000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak107_cwm"
 	},
@@ -6020,7 +6020,7 @@
 	},
 	{
 		"abr": "akms",
-		"price": 1150,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_aks_cwm"
 	},
@@ -6284,7 +6284,7 @@
 	},
 	{
 		"abr": "ak5c",
-		"price": 1200,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ak5_cwm"
 	},
@@ -6416,13 +6416,13 @@
 	},
 	{
 		"abr": "m27iar",
-		"price": 1330,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m27_cwm"
 	},
 	{
 		"abr": "m79",
-		"price": 1330,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m79_cwm"
 	},
@@ -6608,7 +6608,7 @@
 	},
 	{
 		"abr": "m249",
-		"price": 1580,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m249_cwm"
 	},
@@ -6704,7 +6704,7 @@
 	},
 	{
 		"abr": "m40a3",
-		"price": 1660,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m40a3_cwm"
 	},
@@ -6860,7 +6860,7 @@
 	},
 	{
 		"abr": "m60e3",
-		"price": 1830,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m60e3_cwm"
 	},
@@ -7082,7 +7082,7 @@
 	},
 	{
 		"abr": "m32milkor",
-		"price": 2420,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_m32_cwm"
 	},
@@ -7909,22 +7909,10 @@
 		"defname": "Turret_TazingTurret"
 	},
 	{
-		"abr": "guestslabbed",
+		"abr": "guestandroidupgradestation",
 		"price": -10,
 		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
+		"defname": "AndroidOperationBedGuest"
 	},
 	{
 		"abr": "guestbed",
@@ -7933,34 +7921,10 @@
 		"defname": "BedGuest"
 	},
 	{
-		"abr": "guestdoublebedroll",
+		"abr": "guestbedroll",
 		"price": -10,
 		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
+		"defname": "BedrollGuest"
 	},
 	{
 		"abr": "guestcryptosleepsuspender",
@@ -7969,16 +7933,40 @@
 		"defname": "Bed_CryptoBedGuest"
 	},
 	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
 		"abr": "guestergonomicdoublebed",
 		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_DoubleErgonomicGuest"
 	},
 	{
-		"abr": "guestandroidupgradestation",
+		"abr": "guesthospitalbed",
 		"price": -10,
 		"category": "Furniture",
-		"defname": "AndroidOperationBedGuest"
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
 	},
 	{
 		"abr": "guestroyalbed",
@@ -7992,6 +7980,18 @@
 		"category": "Furniture",
 		"defname": "Bed_KingsizeGuest"
 	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	}
 	],
-	"total": 1346
+	"total": 1360
 }
